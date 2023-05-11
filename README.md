@@ -1,7 +1,8 @@
 # myMobileApp1
 FullStackOpen-Osa10 ReactNative app
 
-This repo includes the implemented exercises for the FullStackOpen ReactNative course
+This repo includes the implemented exercises for the FullStackOpen ReactNative course:
+
 Part a: Introduction to React Native
 - Exercise 10.1: initializing the application
    - tested environments are:
