@@ -10,6 +10,7 @@ export default function App() {
       <Text>ok: Real device: Samsung S21+ - Android v13 </Text>
       <Text>ok: Simulator/MacPro: ipadPro (Xcode v13.2.1) </Text>
       <Text>ok: Simulator/MacPro: Google Pixel 6 Pro (Android Studio 2022.2.1) </Text>
+      <Text>ok: Web Browser: (Chrome Version 113.0.5672.92)</Text>
       <StatusBar style="auto" />
     </View>
   );
